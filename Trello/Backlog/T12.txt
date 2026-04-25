@@ -1,0 +1,4 @@
+Serial : Card 12
+Card Name : Task Presentation
+Description : Displays or delivers completed tasks to stakeholders or users.
+Contributor Name : Samin Shahriyar Lorin

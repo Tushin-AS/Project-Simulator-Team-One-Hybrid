@@ -1,0 +1,4 @@
+Serial : Card 2
+Card Name : Meeting Scheduler
+Description : Automatically organizes and manages meeting times based on participant availability.
+Contributor Name : Samin Shahriyar Lorin

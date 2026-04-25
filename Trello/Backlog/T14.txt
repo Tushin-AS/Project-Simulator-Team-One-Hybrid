@@ -1,0 +1,4 @@
+Serial : Card 14
+Card Name : Password Management For Project Manager
+Description : Enables users to change or recover their password securely.
+Contributor Name : Samin Shahriyar Lorin

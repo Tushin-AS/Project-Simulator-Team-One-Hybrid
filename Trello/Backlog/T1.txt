@@ -1,0 +1,4 @@
+Serial : Card 1
+Card Name : Dependency Notifier
+Description : Sends automated alerts when related tasks or dependencies are affected.
+Contributor Name : Samin Shahriyar Lorin

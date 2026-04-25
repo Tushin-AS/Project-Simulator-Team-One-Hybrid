@@ -1,0 +1,4 @@
+Serial : Card 9
+Card Name : Module Verification
+Description : Validates that each software module meets its specified requirements.
+Contributor Name : Samin Shahriyar Lorin

@@ -1,0 +1,4 @@
+Serial : Card 6
+Card Name : Password Management For Q/A Engineer
+Description : Enables users to change or recover their password securely.
+Contributor Name : Samin Shahriyar Lorin

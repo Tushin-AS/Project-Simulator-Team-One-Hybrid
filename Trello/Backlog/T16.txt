@@ -1,0 +1,4 @@
+Serial : Card 16
+Card Name : Password Management For Software Developer
+Description : Enables users to change or recover their password securely.Enables users to change or recover their password securely.
+Contributor Name : Samin Shahriyar Lorin

@@ -1,0 +1,4 @@
+Serial : Card 10
+Card Name : System Verification 
+Description : Ensures the complete system functions correctly as a whole.
+Contributor Name : Samin Shahriyar Lorin
