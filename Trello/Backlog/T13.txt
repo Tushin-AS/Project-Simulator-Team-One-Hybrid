@@ -1,0 +1,4 @@
+Serial : Card 13
+Card Name : Password Management For Product Owner
+Description : Enables users to change or recover their password securely.
+Contributor Name : Samin Shahriyar Lorin

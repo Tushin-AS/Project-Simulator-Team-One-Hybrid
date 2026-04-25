@@ -1,0 +1,4 @@
+Serial : Card 15
+Card Name : Account Management For Software Developer
+Description : Allows users to create an account and update/manage their profile information.
+Contributor Name : Samin Shahriyar Lorin

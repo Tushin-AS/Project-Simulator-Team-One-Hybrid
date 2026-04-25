@@ -1,0 +1,4 @@
+Serial : Card 8
+Card Name : Task Integration
+Description : Combines multiple unit tasks to verify they work together seamlessly.
+Contributor Name : Samin Shahriyar Lorin

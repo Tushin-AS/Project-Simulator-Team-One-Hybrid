@@ -1,0 +1,4 @@
+Serial : Card 3
+Card Name : Credential Validator
+Description : Verifies and ensures the authenticity of organizational credentials.
+Contributor Name : Samin Shahriyar Lorin
