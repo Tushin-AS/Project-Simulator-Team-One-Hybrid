@@ -1,0 +1,4 @@
+Serial : Card 2
+Card Name : Timeline Planning
+Description : Defines and schedules the overall project timeline and key milestones.
+Contributor Name : Shaharia Rahman Tanim

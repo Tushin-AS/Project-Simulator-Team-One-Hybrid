@@ -1,0 +1,4 @@
+Serial : Card 1
+Card Name : Analyze Requirements
+Description : Identifies, studies, and defines system requirements to ensure they meet user and business needs.
+Contributor Name : Shaharia Rahman Tanim
