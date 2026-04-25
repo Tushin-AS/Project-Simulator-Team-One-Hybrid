@@ -1,0 +1,3 @@
+T3: Analyze requirements
+
+Identifies, studies, and defines system requirements to ensure they meet user and business needs.
