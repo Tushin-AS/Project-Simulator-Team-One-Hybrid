@@ -1,0 +1,4 @@
+Serial : Card 2
+Card Name : Password Management For SOftware Developer
+Description : Enables users to change or recover their password securely.Enables users to change or recover their password securely.
+Contributor Name : Ahnaf Ahmad
