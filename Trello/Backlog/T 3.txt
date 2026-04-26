@@ -1,0 +1,4 @@
+Serial : Card 3
+Card Name : Attend Meetings
+Description :As a Software Developer, I want to attend meetings so that I stay aligned with the team.
+Contributor Name : Ahnaf Ahmad
